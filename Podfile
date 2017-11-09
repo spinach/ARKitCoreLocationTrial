@@ -7,5 +7,6 @@ target 'ARKitCoreLocationTrial' do
 
   # Pods for ARKitCoreLocationTrial
   pod 'ARCL'
+  pod 'InstantSearch-iOS'
 
 end
